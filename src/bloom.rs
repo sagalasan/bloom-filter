@@ -98,7 +98,7 @@ impl<T: BloomHasher> BloomFilter<T> {
     /// # Examples
     ///
     /// ```
-    /// extern crate bloom_filter;
+    /// extern crate bloom_filter_rs as bloom_filter;
     ///
     /// use std::vec::Vec;
     /// use bloom_filter::{BloomFilter, Murmur3};

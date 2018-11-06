@@ -8,13 +8,13 @@ A Bloom Filter implementation in Rust.
 
 ```toml
 [dependencies]
-bloom-filter = "0.1"
+bloom-filter-rs = "0.1"
 ```
 
 ## Usage
 
 ```rust,no_run
-extern crate bloom_filter;
+extern crate bloom_filter_rs as bloom_filter;
 
 use std::vec::Vec;
 use bloom_filter::{BloomFilter, Murmur3};

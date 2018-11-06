@@ -1,5 +1,5 @@
 [package]
-name = "bloom-filter"
+name = "bloom-filter-rs"
 version = "0.1.0"
 authors = ["sagalasan <sagalasan@users.noreply.github.com>"]
 description = "A Bloom Filter implementation in Rust"
