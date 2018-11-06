@@ -1,0 +1,8 @@
+[package]
+name = "bloom-filter"
+version = "0.1.0"
+authors = ["sagalasan <sagalasan@users.noreply.github.com>"]
+
+[dependencies]
+bit-vec = "0.5.0"
+murmur3 = "0.4.1"
