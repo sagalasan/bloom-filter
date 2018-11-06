@@ -7,7 +7,7 @@ repository = "https://github.com/sagalasan/bloom-filter"
 license = "MIT"
 readme = "README.md"
 keywords = ["bloomfilter", "bloom", "filter", "bloom-filter"]
-categories = ["Algorithms"]
+categories = ["algorithms"]
 exclude = ["resources/*"]
 
 [dependencies]

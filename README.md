@@ -1,6 +1,7 @@
 # Bloom Filter
 
 [![Build Status](https://travis-ci.com/sagalasan/bloom-filter.svg?branch=master)](https://travis-ci.com/sagalasan/bloom-filter)
+[![Documentation](https://docs.rs/bloom-filter-rs/badge.svg)](https://docs.rs/bloom-filter-rs)
 
 A Bloom Filter implementation in Rust.
 
